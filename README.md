@@ -10,9 +10,9 @@
   - [Built with](#built-with)
  
 ## Overview
-ShareMe is a Social Media Platform aimed towards sharing experiences through photographs.
+ShareMe is a full stack web application aimed towards sharing experiences through photographs.
 ShareMe provides the user with complete control of their posts such as creation, editing, deletion as well as saving favourite pins for later reference.
-Powered By Google Authentication, ShareMe provides streamlined account activities and top of the line security.
+It is powered By Google Authentication and provides streamlined account activities and good security.
 
 ## Project Description
 The app consists of various categories into which a post can be classified under. 
